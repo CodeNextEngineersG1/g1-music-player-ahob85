@@ -7,3 +7,19 @@ html {
 }
 
 /* Add your styles below! */ 
+
+/* temporary styles for scripting purposes! */ 
+.song-div {
+  float: left;
+  margin: 0 10px; 
+}
+
+.song-input, #now-playing-img {
+  width: 128px;
+  height: 128px;
+  border: 1px solid black;
+}
+
+#playback-screen {
+  display: none;
+}
